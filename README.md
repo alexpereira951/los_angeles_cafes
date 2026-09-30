@@ -141,10 +141,8 @@ los_angeles_cafes/
 
 ### 1. Clonar o repositório
 
-Substitua `<URL_DO_REPOSITORIO>` pela URL do repositório:
-
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/los_angeles_cafes
 cd los_angeles_cafes
 ```
 
